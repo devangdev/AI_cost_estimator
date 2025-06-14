@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="AI Cost Estimator", layout="centered") 
 
 # App title
-st.title("📞 QuibbleAI Cost Estimator")
+st.title("📞 AI Cost Estimator")
 
 
 col1, col2 = st.columns(2)
