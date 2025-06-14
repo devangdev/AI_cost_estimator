@@ -1,13 +1,12 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# Set page configuration
 st.set_page_config(page_title="AI Cost Estimator", layout="centered") 
 
 # App title
 st.title("📞 QuibbleAI Cost Estimator")
 
-# Two-column layout
+
 col1, col2 = st.columns(2)
 
 with col1:
